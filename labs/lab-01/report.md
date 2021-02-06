@@ -14,4 +14,8 @@ Reading the chapter of a student that attended a school I am all too familiar wi
 
 ![Image of man tree](https://github.com/seanpoh1/oss-repo-template/blob/master/labs/lab-01/mantree.png)
 
+![Image of Regex](image-20210206122156522.png)
+
+![Image of Regex 2](image-20210206123103199.png)
+
 ![Image of blockly](https://github.com/seanpoh1/oss-repo-template/blob/master/labs/lab-01/blockly.PNG)
